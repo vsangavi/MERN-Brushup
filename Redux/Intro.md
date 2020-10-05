@@ -15,10 +15,10 @@ Now we can understand the key concepts in redux later lets implement them.
 3. Store\
 
 Action:
-Actions are the events or changes that happens in our application. Is that simple ?yeah of course \
+Actions are the events or changes that happens in our application. Is that simple ?yeah of course
 
 Reducers:
-Reducers are a callback functions which has two arguments one is the state and other is the actions. \
+Reducers are a callback functions which has two arguments one is the state and other is the actions 
 
 Store:
 AS name defines it Store stores our app states global.
